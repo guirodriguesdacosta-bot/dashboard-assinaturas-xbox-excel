@@ -39,11 +39,6 @@ Dashboard
 💻 Ferramentas e habilidades
 Excel · Tabelas Dinâmicas · Segmentação de Dados · Fórmulas · Visualização de Dados · ARPU · Storytelling com Dados
 
-📥 Como usar
-Baixe o arquivo 
-Abra no Excel
-Use os filtros de tipo de assinatura na aba Dashboard para explorar os dados
-
 👤 Autor
 Guilherme Rodrigues da Costa
 Analista e Desenvolvedor de Sistemas · Brasília - DF
