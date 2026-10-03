@@ -1,6 +1,6 @@
 🎮 Dashboard de Assinaturas Xbox (Excel)
 
-<img width="962" height="323" alt="grafico-por-plano" src="https://github.com/user-attachments/assets/11599e87-c316-4fa3-87b0-20aa2d7d7ae2" />
+<img width="1236" height="584" alt="dashboard" src="https://github.com/user-attachments/assets/308d46e7-ee2a-4b2f-aaad-3822564a1dfe" />
 
 
 Dashboard interativo em Excel que analisa a base de assinantes do Xbox Game Pass, EA Play Season Pass e Minecraft Season Pass. Projeto desenvolvido durante o curso Reclame AQUI - Dados e IA na Prática, com a orientação do professor Felipe, simulando o papel de analista de dados contratado pela Xbox para entregar informações a um gestor.
@@ -23,7 +23,7 @@ Filtros (segmentação de dados) por tempo de plano para analisar o tipo de assi
 ⭐ Minha contribuição
 Complementei o projeto com uma análise própria: um gráfico de assinaturas e receita por plano (Core, Standard e Ultimate), também filtrável por tipo de assinatura.
 
-<img width="1236" height="584" alt="dashboard" src="https://github.com/user-attachments/assets/308d46e7-ee2a-4b2f-aaad-3822564a1dfe" />
+<img width="962" height="323" alt="grafico-por-plano" src="https://github.com/user-attachments/assets/11599e87-c316-4fa3-87b0-20aa2d7d7ae2" />
 
 O Standard tem mais assinantes que o Ultimate, mas o Ultimate gera a maior receita.
 Cada assinante Ultimate rende 3x mais que um Core e 50% mais que um Standard.
